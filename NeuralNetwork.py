@@ -1,5 +1,6 @@
 import numpy as np  # pip install numpy
 import nltk  # pip install nltk
+nltk.download('punkt_tab')
 from nltk.stem import PorterStemmer
 Stemmer = PorterStemmer()
 

@@ -2,7 +2,7 @@ from Listen import Listen
 import sys
 import time
 from Speak import speak
-import random
+import random 
 import json
 import torch
 from Brain import NeuralNet

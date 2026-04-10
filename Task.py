@@ -183,7 +183,7 @@ def movies():
 
 def notepad():
     speak("opening the notepad")
-    npath = "C:\windows\system32\\notepad.exe"
+    npath = "C:\\windows\\system32\\notepad.exe"
     os.startfile(npath)
 
 

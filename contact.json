@@ -1,17 +1,17 @@
 {
     "patterns": [
-        "saurabh",
-        "prasad",
-        "rakesh"
+        "anjali",
+        "aishwarya",
+        "jyoti"
     ],
     "mobileno": {
-        "saurabh": "7559275847",
-        "prasad": "7249596920",
-        "rakesh": "7972487464"
+        "anjali": "8073131829",
+        "aishwarya": "8050244818",
+        "jyoti": "9353328180"
     },
     "emailAddress": {
-        "saurabh": "saurabhbiradar60@gmail.com",
-        "prasad": "prasadbramhapurkar1234@gmail.com",
-        "rakesh": "rakeshchoudhary.rc917@gmail.com"
+        "anjali": "anjalibiradar192004@gmail.com",
+        "aishwarya": "aishushegedar2004@gmail.com",
+        "jyoti": "jyotibiradar364@gmail.com"
     }
 }
